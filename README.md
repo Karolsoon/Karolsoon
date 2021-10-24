@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karolsoon
 - 👀 I’m interested in a BIG life change from Quality Assurance to Python programming.
-- 🌱 I’m currently learning Python, GIT, Databases (MySQL), TDD, HTML/CSS...later js, Docker
+- 🌱 I’m currently learning Python with Flask, Pytest, GIT, SQL basics (SQLAlchemy on SQLite), TDD, HTML/CSS...later js, Docker
 - 💞️ I’m looking to collaborate on nothing particular, just learning.
 - 📫 How to reach me ...in the future, starting from 02.2022.
 
