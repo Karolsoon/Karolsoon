@@ -1,5 +1,3 @@
-What I knew a minute before might be irrelevant now. It's a big world. A world to learn from.
+Python, thank you for letting me find you.
 
-I love working with the command line. And python.
-Learning about cloud solutions and containers.
-Good with Postgres and SQL.
+I'm an engineer with passion to solve problems with python. Or do cool things with it.
